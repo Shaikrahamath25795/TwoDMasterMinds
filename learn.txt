@@ -1,4 +1,4 @@
 hi this is from main 
 this line is from branchgit 
 second change has been done in sub branch
-need to check this line is pushing to the main branch or not because this change has been done in the sub branch
+need to check this line is pushing to the main branch or not because this change has been done in the sub branchgit
